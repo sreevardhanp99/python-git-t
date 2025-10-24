@@ -14,3 +14,7 @@ _italic_
 
 __bold__
 
+~~strike~~
+
+
+[goggle](https://www.google.com)
